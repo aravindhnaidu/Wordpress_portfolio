@@ -9,25 +9,25 @@ In addition to my technical skills, I am passionate about staying up-to-date wit
 Explore my GitHub to see firsthand how I transform ideas into functional, engaging digital experiences, and discover the innovative approaches I bring to the world of WordPress development.
 My GitHub repository showcases a range of projects that highlight my proficiency with various technologies. These include:
 
-HTML, CSS, JavaScript:
-PHP and MySQL: 
-WordPress APIs:
-RESTful APIs:
-Version Control with Git:
-Bootstrap and Tailwind CSS: 
-WooCommerce:
+HTML, CSS, JavaScript:, 
+PHP and MySQL:,
+WordPress APIs:,
+RESTful APIs:,
+Version Control with Git:,
+Bootstrap and Tailwind CSS:,
+WooCommerce:,
 SEO Best Practices: 
 
 live portfolio: https://aravindhportfolio.godaddysites.com/
 
 Here are some online platforms where you can showcase your WordPress portfolio and projects:
-GitHub
-WordPress.org
-Behance
-Dribbble
-LinkedIn
-CodePen
-Dev.to
-Medium
-Personal Portfolio Websites
-Stack Overflow
+GitHub,
+ WordPress.org, 
+Behance,
+Dribbble,
+LinkedIn,
+CodePen,
+Dev.to,
+Medium,
+Personal Portfolio Websites,
+Stack Overflow,
